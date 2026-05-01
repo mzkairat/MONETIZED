@@ -1,0 +1,14 @@
+{
+  "name": "creator-assets",
+  "version": "1.0.0",
+  "description": "CreatorAssets - Buy Pre-Monetized Social Media Accounts",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0",
+    "express": "^4.18.3"
+  }
+}
